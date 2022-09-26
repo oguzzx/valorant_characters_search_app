@@ -1,0 +1,65 @@
+.hero-container {
+  background-color: #eee;
+  padding: 20px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+.hero-container:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.hero-title {
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+}
+.hero-desc {
+  font-size: 20px;
+  color: #333;
+}
+.role {
+  width: 200px;
+  height: 50px;
+  background-color: rgb(151, 52, 98);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.hero-role {
+  font-size: 20px;
+  color: #333;
+}
+.skills-container {
+  border: 1px solid;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.skills-container img {
+  width: 50px;
+  background-color: orange;
+  margin: 10px;
+  padding: 5px;
+}
+.skills-container .cntr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.skills {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 7px;
+  height: 25px;
+  width: 100px;
+  background-color: rgb(250, 123, 76);
+}
+img {
+  width: 200px;
+}

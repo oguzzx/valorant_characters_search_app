@@ -1,0 +1,7 @@
+.hero-list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    width: 85vw;
+    margin: 20px auto ;
+}
