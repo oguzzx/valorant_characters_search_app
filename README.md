@@ -4,7 +4,7 @@ Javascript React.js kütüphanesini kullanarak yaptığım projedir
 Valorant oyunundaki karakterleri api üzerinden çekip inputta girilen veriye göre filtreleme işlemi yaptım
 kullandığım api : https://valorant-api.com/v1/agents?isPlayableCharacter=true
 
-deploy : https://voluble-fudge-56598e.netlify.app
+deploy : https://voluble-fudge-56598e.netlify.app 
 
 ![image](https://user-images.githubusercontent.com/110103127/192513229-6bd1e0db-f141-4654-a1ed-281d5dfc5b14.png)
 
